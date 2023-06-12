@@ -115,7 +115,3 @@ let unselectedIds =[];
 
 
 
-
-d3.select('ul')
-  .selectAll('li')
-  .
