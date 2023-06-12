@@ -1,0 +1,58 @@
+body{
+    background-image: url(./Group.svg);
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.menu{
+    margin-top: 75px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 200px;
+    color: white;
+}
+select{
+    /* position: absolute; */
+    width: 100px;
+    height: 30px;
+    margin-right: 125px;
+    background-color: #4A628A;
+    color: white;
+}
+.class{
+    position: absolute;
+    top: 55px;
+    left: 225px;
+}
+.second{
+    left: 445px;
+}
+.third{
+    left: 675px;
+}
+.fourth{
+    left: 900px;
+}
+.fifth{
+    left: 1130px;
+}
+
+/* .container{
+    width: 250px;
+    height: 200px;
+    border: 1px solid #521751;
+} */
+.bar{
+    fill: #9D9D9D;
+}
+.label{
+    fill: #FFFFFF;
+}
+ul{
+    list-style: none;
+}
+
+li{
+    color: #FFFFFF;
+    margin-left: 15px;
+}
